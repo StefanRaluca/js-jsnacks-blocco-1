@@ -23,6 +23,7 @@ let i = 0;
 while (i < 10) {
     let number = Number(prompt("Type a number"));
     sum += number;
+    
     i++;
 }
 
