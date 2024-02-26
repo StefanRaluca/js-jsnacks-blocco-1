@@ -4,7 +4,7 @@ console.log('work');
 let N = Number(prompt('Type a number'));
 
     for (let i = 1; i <= N; i++) {
-        console.log(i ** 3); 
+        console.log(N ** 3); 
     }
 
 
